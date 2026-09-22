@@ -1,8 +1,6 @@
-# SPC5004 — AI Tools
+# SPC5004: Tools and Applications of Generative AI
 
 Coursework for **SPC5004**, Queen Mary University of London, 2026/27.
-
-> Module title here is a placeholder — replace with the official one from QMplus.
 
 ## Structure
 
