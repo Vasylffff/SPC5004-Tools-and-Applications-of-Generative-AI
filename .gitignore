@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Data — tracked folder, ignored contents
+data/*
+!data/.gitkeep
+
+# Outputs
+outputs/
+figures/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
+
+# Secrets
+.env
+*.key

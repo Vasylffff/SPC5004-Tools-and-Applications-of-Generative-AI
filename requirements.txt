@@ -1,0 +1,6 @@
+# Core stack, same as SPC4003. Add module-specific packages as they come up.
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
